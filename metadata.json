@@ -1,0 +1,5 @@
+{
+  "name": "Tokko-GHL AI Broker",
+  "description": "Multi-tenant Real Estate AI Agent simulator interfacing with Tokko Broker and GoHighLevel via Gemini Function Calling.",
+  "requestFramePermissions": []
+}
